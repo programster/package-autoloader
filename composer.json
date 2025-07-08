@@ -1,14 +1,18 @@
 {
-    "name": "irap/autoloader",
+    "name": "programster/autoloader",
     "type": "library",
     "description": "An package to make it easy to autoload code.",
     "keywords": ["autoloader"],
-    "homepage": "https://github.com/iRAP-software/package-autoloader",
+    "homepage": "https://github.com/programster/package-autoloader",
     "license": "MIT",
     "authors": [
         {
             "name": "Stuart Page",
             "email": "stuart.page@irap.org"
+        },
+        {
+            "name": "Stuart Page",
+            "email": "sdpagent@gmail.com"
         }
     ],
     "require": {
